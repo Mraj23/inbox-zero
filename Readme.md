@@ -55,18 +55,13 @@ Gmail Bulk Email Cleaner is a Streamlit application that helps you identify and 
 
    - Use the checkboxes to select senders whose emails you want to label.
    - Click "Label Selected Emails for Deletion" to mark the emails.
+   - Emails marked for deletion will be labeled in a folder called ToDelete . Navigate to this folder and manually delete all the emails.
+   - Labeling emails with "ToDelete" is safer than deleting them in bulk, as it allows you to review the emails before permanently removing them.
 
 5. **Review and delete emails:**
 
    - Log in to your Gmail account and review emails labeled "ToDelete".
    - Manually delete the emails if desired.
-
-## Notes
-
-- Ensure that IMAP access is enabled in your Gmail account settings.
-- Use an App Password for authentication instead of your regular Gmail password for security reasons.
-- Emails marked for deletion will be labeled in a folder called ToDelete . Navigate to this folder and manually delete all the emails.
-- **Labeling emails with "ToDelete" is safer than deleting them in bulk, as it allows you to review the emails before permanently removing them.**
 
 
 ## License
