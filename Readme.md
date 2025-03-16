@@ -10,6 +10,8 @@ Gmail Bulk Email Cleaner is a Streamlit application that helps you identify and 
 - Select senders to label their emails for deletion.
 - Mark selected emails with a "ToDelete" label for manual review and deletion in Gmail.
 
+<img width="740" alt="tutorial" src="https://github.com/user-attachments/assets/032d052d-550e-49ff-a133-5159851af259" />
+
 ## Prerequisites
 
 - Python 3.7 or higher
